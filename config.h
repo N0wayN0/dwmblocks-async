@@ -12,6 +12,7 @@ const Block blocks[] = {
 	BLOCK("sb-volume",  0,      21),
 	BLOCK("sb-nettraf", 3,      22),
 	BLOCK("sb-clock",   60,     24),
-	BLOCK("sb-help",    0,      25),
+	BLOCK("sb-battery", 10,     25),
+	BLOCK("sb-help",    0,      26),
 //BLOCK("sb-exit",    0,      26)
 };
